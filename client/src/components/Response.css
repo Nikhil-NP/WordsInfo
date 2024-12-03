@@ -1,0 +1,17 @@
+.response-card {
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 60%;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: left; /* Align the text for better readability */
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+.response-card strong {
+    color: #333; /* Style bold text */
+    font-weight: bold;
+}
